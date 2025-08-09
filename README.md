@@ -1,12 +1,6 @@
-Got it — I’ll make you a **generic but detailed** README for a full-stack app built with **React + Vite** that you can easily customize for your Job Portal project.
-
----
-
 # Job Portal
 
 A **full-stack job portal application** that enables users to search, post, and manage job listings. The application provides authentication, dynamic job posting, and admin functionalities, built using **React + Vite** on the frontend and a **Node.js/Express** backend.
-
----
 
 ## 🚀 Features
 
@@ -59,7 +53,7 @@ Still in progress...
 
 ## 📦 Deployment
 
-### Frontend
+<!-- ### Frontend -->
 
 [View live site](https://job-portal-ten-mu.vercel.app/)
 
